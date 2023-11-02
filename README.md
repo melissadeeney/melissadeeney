@@ -1,8 +1,11 @@
 <div align="center"><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/m.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/e.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/l.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/i.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/s.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/s.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/a.gif" border="0" /></div> 
 
-<div style="width: 100%; display: flex; justify-content: space-between;">
-    <div><img src="http://www.myspacegens.com/images/online_now/3.gif"></div>
-    <div><img src="http://www.myspacegens.com/images/online_now/103.gif"></div>
+<div style="position: absolute; left: 0;">
+    <img src="http://www.myspacegens.com/images/online_now/3.gif">
+</div>
+
+<div style="position: absolute; right: 0;">
+    <img src="http://www.myspacegens.com/images/online_now/103.gif">
 </div>
 
 
