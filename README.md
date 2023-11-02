@@ -8,11 +8,11 @@
 <img align="center" alt="animated picture of Nurse Joy using computer" width="450" src="https://media.tenor.com/jZRimaD4cuAAAAAC/pokemon-anime.gif"/>
 </p>
 
-<div id="badges" style="text-align: center;">
-    <a href="https://www.linkedin.com/in/melissa-deeney-616326120">
-        <img src="https://i.imgur.com/6MKe3VF.gif" alt="LinkedIn Badge" style="display: block; margin: 0 auto;" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/melissa-deeney-616326120">
+    <img src="https://i.imgur.com/6MKe3VF.gif" alt="LinkedIn Badge" style="display: block; margin: 0 auto;" />
+  </a>
+</p>
 
 I'm an apprentice DevOps Engineer learning to use programming languages to solve my problems and sometimes yours too
 
