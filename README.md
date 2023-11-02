@@ -18,12 +18,22 @@
 
 I'm an apprentice DevOps Engineer learning to use programming languages to solve my problems and sometimes yours too
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;"><img src="https://64.media.tumblr.com/22461ffa8dcd45514a932e4bc2d66220/216d6bc2ca758416-a7/s100x200/a7063cfff9d78194987e78f99a3bd5dd13fa3ea7.jpg" style="width: 100px;"></div>
-    <div style="flex: 1;"><img src="https://64.media.tumblr.com/8afb2ecf4141c996e94341687084486f/tumblr_pxqddwGia61xmlb72o1_100.gifv" style="width: 100px;"></div>
-    <div style="flex: 1;"><img src="https://64.media.tumblr.com/64a1eb04d1d3e0745ae39a792eb30372/c3df6c65681426b7-36/s100x200/4685771e46ada01d033ef6ae8e62bbee36c245ab.jpg" style="width: 100px;"></div>
-</div>
+<style>
+.image-container {
+    display: flex;
+    justify-content: space-between;
+}
 
+.image-container img {
+    width: 100px; /* Set the width as needed */
+}
+</style>
+
+<div class="image-container">
+    <div><img src="https://64.media.tumblr.com/22461ffa8dcd45514a932e4bc2d66220/216d6bc2ca758416-a7/s100x200/a7063cfff9d78194987e78f99a3bd5dd13fa3ea7.jpg"></div>
+    <div><img src="https://64.media.tumblr.com/8afb2ecf4141c996e94341687084486f/tumblr_pxqddwGia61xmlb72o1_100.gifv"></div>
+    <div><img src="https://64.media.tumblr.com/64a1eb04d1d3e0745ae39a792eb30372/c3df6c65681426b7-36/s100x200/4685771e46ada01d033ef6ae8e62bbee36c245ab.jpg"></div>
+</div>
 
 
 <div align="center"><img src="https://64.media.tumblr.com/b04076b8fe0bb352a928e7388f9ebcb0/72e98cc4354a686d-cb/s1280x1920/599aaa2dc39dcaf36aa297057aff62fb8f31f46e.gifv"></div>
