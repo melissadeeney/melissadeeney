@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <div align="center"><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/m.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/e.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/l.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/i.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/s.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/s.gif" border="0" /><img src="http://www.myspacegens.com/images/glitter_text/styles/5/images/a.gif" border="0" /></div> 
 
 <div style="position: absolute; left: 0;">
@@ -34,6 +36,7 @@ I'm an apprentice DevOps Engineer learning to use programming languages to solve
     <div><img src="https://64.media.tumblr.com/8afb2ecf4141c996e94341687084486f/tumblr_pxqddwGia61xmlb72o1_100.gifv"></div>
     <div><img src="https://64.media.tumblr.com/64a1eb04d1d3e0745ae39a792eb30372/c3df6c65681426b7-36/s100x200/4685771e46ada01d033ef6ae8e62bbee36c245ab.jpg"></div>
 </div>
+
 
 
 <div align="center"><img src="https://64.media.tumblr.com/b04076b8fe0bb352a928e7388f9ebcb0/72e98cc4354a686d-cb/s1280x1920/599aaa2dc39dcaf36aa297057aff62fb8f31f46e.gifv"></div>
