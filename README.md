@@ -31,6 +31,12 @@ I'm an apprentice DevOps Engineer learning to use programming languages to solve
 
 <div align="center"><img src="https://64.media.tumblr.com/b04076b8fe0bb352a928e7388f9ebcb0/72e98cc4354a686d-cb/s1280x1920/599aaa2dc39dcaf36aa297057aff62fb8f31f46e.gifv"></div>
 
+<p>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=1145298831&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false">
+<img src="https://github.com/kittinan/spotify-github-profile"/>
+</a>
+</p>
+
 <div align="center"><img src="https://64.media.tumblr.com/cdef50e0b6758a524a06fc150ee3926d/c9c1b0a209afd30c-0f/s250x400/695885676787f0d38bc2be7300a717bd90754246.gifv"></div>
 
 
